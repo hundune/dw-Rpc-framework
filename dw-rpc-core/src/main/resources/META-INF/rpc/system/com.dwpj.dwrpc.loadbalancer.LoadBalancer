@@ -1,0 +1,3 @@
+roundRobin=com.dwpj.dwrpc.loadbalancer.RoundRobinLoadBalancer
+random=com.dwpj.dwrpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.dwpj.dwrpc.loadbalancer.ConsistentHashLoadBalancer

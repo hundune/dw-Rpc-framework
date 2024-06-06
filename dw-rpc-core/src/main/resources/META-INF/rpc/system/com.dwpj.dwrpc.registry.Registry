@@ -1,0 +1,2 @@
+etcd=com.dwpj.dwrpc.registry.EtcdRegistry
+zookeeper=com.dwpj.dwrpc.registry.ZooKeeperRegistry

@@ -1,0 +1,4 @@
+failBack=com.dwpj.dwrpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.dwpj.dwrpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.dwpj.dwrpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.dwpj.dwrpc.fault.tolerant.FailSafeTolerantStrategy

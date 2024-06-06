@@ -1,0 +1,4 @@
+jdk=com.dwpj.dwrpc.serializer.JdkSerializer
+hessian=com.dwpj.dwrpc.serializer.HessianSerializer
+json=com.dwpj.dwrpc.serializer.JsonSerializer
+kryo=com.dwpj.dwrpc.serializer.KryoSerializer

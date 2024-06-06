@@ -1,0 +1,2 @@
+no=com.dwpj.dwrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.dwpj.dwrpc.fault.retry.FixedIntervalRetryStrategy
